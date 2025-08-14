@@ -19,7 +19,7 @@ pip install -r requirements.txt
 python src/main.py --name "World"
 ```
 
-## T
+## Test
 ```bash
 pytest
 ```
