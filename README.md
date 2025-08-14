@@ -93,7 +93,7 @@ in the Software without restriction...
 
 
 # Makefile
-.PHONY: install test run
+.PHONY: install test 
 
 install:
 	python -m venv venv
