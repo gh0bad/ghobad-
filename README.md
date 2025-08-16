@@ -3,7 +3,7 @@
 
 A simple Python project with install, run, and test instructions.
 
-## Featur
+## F
 - Example program execution
 - Simple test with pytest
 
