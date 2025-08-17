@@ -4,7 +4,7 @@
 A simple Python project with install, run, and test instructions.
 
 ## Features
-- Example program 
+- Example prog
 - Simple test with pytest
 
 ## Installation
