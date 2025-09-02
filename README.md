@@ -42,7 +42,7 @@ MIT
 
 
 # src/main.py
-#!/usr/bin/env python3
+#!/usr/bin/env 
 import argparse
 
 def greet(name: str) -> str:
