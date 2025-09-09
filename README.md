@@ -79,7 +79,7 @@ build/
 venv/
 .env
 .vscode/
-.idea/
+
 
 
 # LICENSE (MIT License)
