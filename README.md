@@ -87,7 +87,7 @@ MIT License
 
 Copyright (c) 2025
 
-Permission is hereby granted, free of 
+Permission is hereby
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction...
 
