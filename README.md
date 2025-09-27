@@ -43,7 +43,7 @@ MIT
 
 # src/main.py
 #!/usr/bin/env python3
-import argp
+import 
 
 def greet(name: str) -> str:
     return f"Hello {name} 👋"
