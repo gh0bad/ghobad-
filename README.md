@@ -24,7 +24,7 @@ python src/main.py --name "World"
 pytest
 ```
 
-## Stru
+## 
 ```
 .
 ├── README.md
