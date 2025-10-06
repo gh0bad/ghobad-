@@ -41,7 +41,7 @@ pytest
 MIT
 
 
-# 
+# src/main.py
 #!/usr/bin/env python3
 import argparse
 
