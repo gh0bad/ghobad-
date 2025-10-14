@@ -43,7 +43,7 @@ MIT
 
 # src/main.py
 #!/usr/bin/env python3
-import ar
+impo
 
 def greet(name: str) -> str:
     return f"Hello {name} 👋"
