@@ -82,7 +82,7 @@ venv/
 .idea/
 
 
-# LICENSE (MIT Lice
+# LICENSE
 MIT License
 
 Copyright (c) 2025
