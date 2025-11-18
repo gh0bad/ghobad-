@@ -7,7 +7,7 @@ A simple Python project with install, run, and test instructions.
 - Example program execution
 - Simple test with pytest
 
-
+## 
 ```bash
 python -m venv venv
 source venv/bin/activate   # on Windows: venv\Scripts\activate
