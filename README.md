@@ -62,7 +62,7 @@ if __name__ == "__main__":
 # Example: requests==2.31.0
 
 
-# tests/test_mai
+# tests
 from src.main import greet
 
 def test_greet():
