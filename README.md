@@ -63,7 +63,7 @@ if __name__ == "__main__":
 
 
 # tests/test_main.py
-from src.mai
+from 
 
 def test_greet():
     assert greet("Alice") == "Hello Alice 👋"
