@@ -1,7 +1,7 @@
 # README.md
 # Project name
 
-A simple Python project with install, run, and test instructions. 
+A simple Python project with install, run, and test instru
 
 ## Features
 - Example program execution
