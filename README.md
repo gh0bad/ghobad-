@@ -1,7 +1,7 @@
 # README.md
 # Project name
 
-A 
+A simple Python project with 
 
 ## Features
 - Example program execution
