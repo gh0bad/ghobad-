@@ -58,7 +58,7 @@ if __name__ == "__main__":
     main()
 
 
-# requirements
+# requirem
 # Example: requests==2.31.0
 
 
