@@ -27,7 +27,7 @@ pytest
 ## Structure
 ```
 .
-├── README.md
+├── README
 ├── LICENSE
 ├── requirements.txt
 ├── .gitignore
