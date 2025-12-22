@@ -1,5 +1,5 @@
 # README.md
-# Project na
+# Projec
 
 A simple Python project with install, run, and test instructions. 
 
