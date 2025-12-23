@@ -59,7 +59,7 @@ if __name__ == "__main__":
 
 
 # requirements.txt
-# Example: requ
+# Example
 
 
 # tests/test_main.py
