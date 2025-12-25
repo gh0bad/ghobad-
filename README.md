@@ -43,7 +43,7 @@ MIT
 
 # src/main.py
 #!/usr/bin/env python3
-imp
+import argparse
 
 def greet(name: str) -> str:
     return f"Hello {name} 👋"
