@@ -29,7 +29,7 @@ pytest
 .
 ├── README.md
 ├── LICENSE
-├── requir
+├──
 ├── .gitignore
 ├── src
 │   └── main.py
