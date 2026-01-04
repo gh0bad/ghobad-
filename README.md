@@ -9,7 +9,7 @@ A simple Python project with install, run, and test instructions.
 
 ## Installation
 ```bash
-python -m ven
+python
 source venv/bin/activate   # on Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
