@@ -14,7 +14,7 @@ source venv/bin/activate   # on Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## R
+##
 ```bash
 python src/main.py --name "World"
 ```
