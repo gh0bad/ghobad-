@@ -5,7 +5,7 @@ A simple Python project with install, run, and test instructions.
 
 ## Features
 - Example program execution
-- Si
+- Simple test with pytest
 
 ## Installation
 ```bash
