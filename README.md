@@ -1,5 +1,5 @@
 # README.md
-# Pro
+#
 
 A simple Python project with install, run, and test instructions. 
 
