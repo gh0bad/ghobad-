@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```
 
 ## Run
-```bash
+```ba
 python src/main.py --name "World"
 ```
 
