@@ -1,5 +1,5 @@
 # README.md
-# Pr
+# Project name
 
 A simple Python project with install, run, and test instructions. 
 
