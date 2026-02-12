@@ -8,7 +8,7 @@ A simple Python project with install, run, and test instructions.
 - Simple test with pytest
 
 ## Installation
-```bash
+```b
 python -m venv venv
 source venv/bin/activate   # on Windows: venv\Scripts\activate
 pip install -r requirements.txt
